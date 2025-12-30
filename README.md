@@ -13,9 +13,9 @@ This account is a joint effort between all the projects I could publicate along 
 <tr>
 <td>
 <a href="https://github.com/UnopposedQuill">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnopposedQuill&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Top Langs">
+    <img src="https://github-readme-stats-ten-mocha-98.vercel.app/api/top-langs/?username=UnopposedQuill&layout=compact&theme=radical&hide_border=f%20%20%20%20alse&include_all_commits=true&count_private=true" alt="Top Langs">
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=UnopposedQuill&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
+<img src="https://github-readme-stats-ten-mocha-98.vercel.app/api?username=UnopposedQuill&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats">
 </td>
 <td>
     <img height="20" src="https://img.shields.io/badge/-Discord-white?style=flat-square&logo=discord"/>
